@@ -1,0 +1,43 @@
+{
+    "timestamp": 1789844727.2702098,
+    "devices": [
+        {
+            "id": "eb31c28a42a8094d8dip3i",
+            "ip": "192.168.1.3",
+            "uuid": "1e556abb93a1d1ff",
+            "active": 2,
+            "encrypt": true,
+            "productKey": "key4sxquh7gt88ay",
+            "token": true,
+            "wf_cfg": true,
+            "sl": 0,
+            "clientLink": 3,
+            "name": "",
+            "key": "",
+            "mac": "",
+            "ability": 0,
+            "dev_type": "default",
+            "origin": "broadcast",
+            "ver": "3.5"
+        },
+        {
+            "id": "eba052dbc36f144cefhy8p",
+            "ip": "192.168.1.4",
+            "uuid": "dab90a05f55d1cb9",
+            "active": 2,
+            "encrypt": true,
+            "productKey": "key4sxquh7gt88ay",
+            "token": true,
+            "wf_cfg": true,
+            "sl": 0,
+            "clientLink": 3,
+            "name": "",
+            "key": "",
+            "mac": "",
+            "ability": 0,
+            "dev_type": "default",
+            "origin": "broadcast",
+            "ver": "3.5"
+        }
+    ]
+}
